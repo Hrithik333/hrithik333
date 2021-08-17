@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/79497113/127716630-425d191a-d8ef-4303-b7ec-a4bbebb1188a.gif">
+</p>  
+
+
 <h1 align="center">Hi 👋, I'm Hrithik Tiwari</h1>
 <h3 align="center">Computer Science and Engineering sophomore at KIIT University I am passionate Full Stack developer developer.</h3>
 
